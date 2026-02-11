@@ -1,10 +1,5 @@
 <div align="center">
 
-![Louisa's Banner][def]
-
-</div>
-<div align="center">
-
 # Hi, I'm Louisa 👋  
 ### Software Engineer | Career Switcher | Problem Solver
 
@@ -36,7 +31,7 @@ I’m especially interested in:
 ## 🛠 Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)~~~~
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -44,18 +39,15 @@ I’m especially interested in:
 React, HTML5, CSS3
 
 ### Backend & Tools
-Node.js, Git, REST APIs, AWS (learning), CLI
+Node.js, Git, REST APIs, AWS, CLI, Kubernetes
 
 ---
 
 ## 📂 Featured Projects
 
-Here are a few repositories that showcase my development journey:
+Showcasing my development journey:
 
 - 🔹 **Career-Switch-Assignments** – Foundational software engineering exercises & Git workflow
-- 🔹 More projects coming soon...
-
-(Links coming as I refine and clean repositories.)
 
 ---
 
@@ -70,7 +62,11 @@ Here are a few repositories that showcase my development journey:
 
 ## 🌍 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/louisa-mussington-boreham-974b38a4/)  
+<a href="https://www.linkedin.com/in/louisa-mussington-boreham-974b38a4/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinKedIn" style="width:40px;height:40px;">
+</a>    <a href="https://www.instagram.com/modernbritishrose" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width:40px;height:40px;">
+</a> 
 
 ---
 
