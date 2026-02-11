@@ -1,5 +1,10 @@
 <div align="center">
 
+![Louisa's Banner][def]
+
+</div>
+<div align="center">
+
 # Hi, I'm Louisa 👋  
 ### Software Engineer | Career Switcher | Problem Solver
 
@@ -68,3 +73,7 @@ Here are a few repositories that showcase my development journey:
 ---
 
 > “Growth begins at the edge of your comfort zone.”
+
+[def]: @reallygreatsite.png
+
+![Thank you banner](<Thank you gif.gif>)
