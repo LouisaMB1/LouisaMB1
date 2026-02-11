@@ -3,6 +3,8 @@
 # Hi, I'm Louisa 👋  
 ### Software Engineer | Career Switcher | Problem Solver
 
+![Louisa's Banner][def]
+
 </div>
 
 ---
